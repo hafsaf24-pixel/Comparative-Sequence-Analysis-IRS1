@@ -1,5 +1,5 @@
 # Comparative-Sequence-Analysis-IRS1
-Comparative DNA and protein sequence alignment of IRS1 gene across multiple species.
+Comparative DNA and protein sequence alignment of Insulin Receptor Substrate 1 (IRS1) gene across multiple species.
 
 This repository contains a comparative analysis of the DNA and protein sequences of IRS1 gene across 20 species.
 Sequence data was retrieved from public biological databases and aligned to examine conservation patterns at the nucleotide and amino acid levels by constructing phylogenetic trees.
